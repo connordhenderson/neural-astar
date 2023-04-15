@@ -1,0 +1,7 @@
+Instructions:
+The mazes and solutions in the 'data/' file are sufficient to run, but to generate those files you can fully run the data_generation.ipynb
+
+After the data is generated, place it in the 'data/' file, then fully run the neural_astar_batched.ipynb to run the Neural A* approach
+
+The OPT/EXP for the A* method will be at the bottom of the data generation notebook
+The OPT/EXP for the Neural A* method will be at the bottom of the Neural A* notebook
